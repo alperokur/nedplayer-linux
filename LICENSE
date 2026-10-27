@@ -1,0 +1,19 @@
+NedPlayer
+Copyright (c) 2026 Alper Okur. All rights reserved.
+
+This package contains the compiled NedPlayer application. You may download,
+install and use it free of charge, and you may redistribute this package
+unmodified, including through Flathub and other Flatpak repositories.
+
+You may not modify, decompile, disassemble or reverse engineer the
+application, except as permitted by applicable law.
+
+The bundled third-party libraries (Flutter engine, libmpv, libass,
+libplacebo, mimalloc and others) remain under their own licenses.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT
+SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING
+FROM THE USE OF THE SOFTWARE.
+
+NedPlayer does not provide any TV channels, movies or other media content.
+Users are responsible for the content they play with it.

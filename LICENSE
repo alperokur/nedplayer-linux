@@ -1,14 +1,21 @@
 NedPlayer
 Copyright (c) 2026 Alper Okur. All rights reserved.
 
-This package contains the compiled NedPlayer application. You may download,
-install and use it free of charge, and you may redistribute this package
-unmodified, including through Flathub and other Flatpak repositories.
+This package contains the compiled NedPlayer application. You may download
+and install it free of charge, and you may redistribute this package
+unmodified, including through Flathub and other Flatpak
+repositories.
+
+A NedPlayer account is required. After the trial period, a paid plan is
+required to continue using the application. Plans are purchased through the
+NedPlayer app on Microsoft Store, Google Play or the App Store and are used
+on Linux by signing in with the same NedPlayer account. The Linux app does
+not offer in-app purchases.
 
 You may not modify, decompile, disassemble or reverse engineer the
 application, except as permitted by applicable law.
 
-The bundled third-party libraries (Flutter engine, libmpv, libass,
+The bundled third-party libraries (Flutter engine, FFmpeg, libmpv, libass,
 libplacebo, mimalloc and others) remain under their own licenses.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT
